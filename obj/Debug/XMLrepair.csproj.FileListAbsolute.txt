@@ -1,0 +1,30 @@
+C:\Users\jason_k\Documents\Visual Studio 2017\Projects\XMLrepair\XMLrepair\bin\Debug\XMLrepair.exe.config
+C:\Users\jason_k\Documents\Visual Studio 2017\Projects\XMLrepair\XMLrepair\bin\Debug\XMLrepair.exe
+C:\Users\jason_k\Documents\Visual Studio 2017\Projects\XMLrepair\XMLrepair\bin\Debug\XMLrepair.pdb
+C:\Users\jason_k\Documents\Visual Studio 2017\Projects\XMLrepair\XMLrepair\obj\Debug\XMLrepair.csprojResolveAssemblyReference.cache
+C:\Users\jason_k\Documents\Visual Studio 2017\Projects\XMLrepair\XMLrepair\obj\Debug\XMLrepair.XMLrepair.resources
+C:\Users\jason_k\Documents\Visual Studio 2017\Projects\XMLrepair\XMLrepair\obj\Debug\XMLrepair.Properties.Resources.resources
+C:\Users\jason_k\Documents\Visual Studio 2017\Projects\XMLrepair\XMLrepair\obj\Debug\XMLrepair.csproj.GenerateResource.cache
+C:\Users\jason_k\Documents\Visual Studio 2017\Projects\XMLrepair\XMLrepair\obj\Debug\XMLrepair.csproj.CoreCompileInputs.cache
+C:\Users\jason_k\Documents\Visual Studio 2017\Projects\XMLrepair\XMLrepair\obj\Debug\XMLrepair.exe
+C:\Users\jason_k\Documents\Visual Studio 2017\Projects\XMLrepair\XMLrepair\obj\Debug\XMLrepair.pdb
+X:\TechFileStore\Sr. Tech\Swat Files\PROJECTS\Jason Krise\XMLrepair\XMLrepair\bin\Debug\XMLrepair.exe.config
+X:\TechFileStore\Sr. Tech\Swat Files\PROJECTS\Jason Krise\XMLrepair\XMLrepair\bin\Debug\XMLrepair.exe
+X:\TechFileStore\Sr. Tech\Swat Files\PROJECTS\Jason Krise\XMLrepair\XMLrepair\bin\Debug\XMLrepair.pdb
+X:\TechFileStore\Sr. Tech\Swat Files\PROJECTS\Jason Krise\XMLrepair\XMLrepair\obj\Debug\XMLrepair.csprojResolveAssemblyReference.cache
+X:\TechFileStore\Sr. Tech\Swat Files\PROJECTS\Jason Krise\XMLrepair\XMLrepair\obj\Debug\XMLrepair.XMLrepair.resources
+X:\TechFileStore\Sr. Tech\Swat Files\PROJECTS\Jason Krise\XMLrepair\XMLrepair\obj\Debug\XMLrepair.Properties.Resources.resources
+X:\TechFileStore\Sr. Tech\Swat Files\PROJECTS\Jason Krise\XMLrepair\XMLrepair\obj\Debug\XMLrepair.csproj.GenerateResource.cache
+X:\TechFileStore\Sr. Tech\Swat Files\PROJECTS\Jason Krise\XMLrepair\XMLrepair\obj\Debug\XMLrepair.csproj.CoreCompileInputs.cache
+X:\TechFileStore\Sr. Tech\Swat Files\PROJECTS\Jason Krise\XMLrepair\XMLrepair\obj\Debug\XMLrepair.exe
+X:\TechFileStore\Sr. Tech\Swat Files\PROJECTS\Jason Krise\XMLrepair\XMLrepair\obj\Debug\XMLrepair.pdb
+\\file1.alamode.com\TechFileStore\Sr. Tech\Swat Files\PROJECTS\Jason Krise\XMLrepair\XMLrepair\bin\Debug\XMLrepair.exe.config
+\\file1.alamode.com\TechFileStore\Sr. Tech\Swat Files\PROJECTS\Jason Krise\XMLrepair\XMLrepair\bin\Debug\XMLrepair.exe
+\\file1.alamode.com\TechFileStore\Sr. Tech\Swat Files\PROJECTS\Jason Krise\XMLrepair\XMLrepair\bin\Debug\XMLrepair.pdb
+\\file1.alamode.com\TechFileStore\Sr. Tech\Swat Files\PROJECTS\Jason Krise\XMLrepair\XMLrepair\obj\Debug\XMLrepair.csprojAssemblyReference.cache
+\\file1.alamode.com\TechFileStore\Sr. Tech\Swat Files\PROJECTS\Jason Krise\XMLrepair\XMLrepair\obj\Debug\XMLrepair.XMLrepair.resources
+\\file1.alamode.com\TechFileStore\Sr. Tech\Swat Files\PROJECTS\Jason Krise\XMLrepair\XMLrepair\obj\Debug\XMLrepair.Properties.Resources.resources
+\\file1.alamode.com\TechFileStore\Sr. Tech\Swat Files\PROJECTS\Jason Krise\XMLrepair\XMLrepair\obj\Debug\XMLrepair.csproj.GenerateResource.cache
+\\file1.alamode.com\TechFileStore\Sr. Tech\Swat Files\PROJECTS\Jason Krise\XMLrepair\XMLrepair\obj\Debug\XMLrepair.csproj.CoreCompileInputs.cache
+\\file1.alamode.com\TechFileStore\Sr. Tech\Swat Files\PROJECTS\Jason Krise\XMLrepair\XMLrepair\obj\Debug\XMLrepair.exe
+\\file1.alamode.com\TechFileStore\Sr. Tech\Swat Files\PROJECTS\Jason Krise\XMLrepair\XMLrepair\obj\Debug\XMLrepair.pdb
